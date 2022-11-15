@@ -1,6 +1,6 @@
 # UCSB_Grades
 
-University of California, Santa Barbara Grades from Fall 2015 to Winter 2021
+University of California, Santa Barbara Grades from Fall 2015 to Spring 2022
 
 ## How to Update the file
 
